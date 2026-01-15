@@ -1,0 +1,492 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-01-15">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="title" type="string" />
+      <attribute id="1" title="group" type="long" />
+      <attribute id="2" title="popularity" type="long" />
+    </attributes>
+    <nodes>
+      <node id="3" label="3">
+        <attvalues>
+          <attvalue for="0" value="Harry Potter and the Sorcerer's Stone (Harry Potter, #1)" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="261292" />
+        </attvalues>
+      </node>
+      <node id="16160797" label="16160797">
+        <attvalues>
+          <attvalue for="0" value="The Cuckoo's Calling (Cormoran Strike, #1)" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="25788" />
+        </attvalues>
+      </node>
+      <node id="16304" label="16304">
+        <attvalues>
+          <attvalue for="0" value="Murder on the Orient Express (Hercule Poirot, #10)" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="14254" />
+        </attvalues>
+      </node>
+      <node id="68429" label="68429">
+        <attvalues>
+          <attvalue for="0" value="The Well of Ascension (Mistborn, #2)" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="13503" />
+        </attvalues>
+      </node>
+      <node id="9791" label="9791">
+        <attvalues>
+          <attvalue for="0" value="A Walk in the Woods" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12948" />
+        </attvalues>
+      </node>
+      <node id="26893819" label="26893819">
+        <attvalues>
+          <attvalue for="0" value="The Girls" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="11291" />
+        </attvalues>
+      </node>
+      <node id="5064" label="5064">
+        <attvalues>
+          <attvalue for="0" value="World Without End (Kingsbridge, #2)" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="8513" />
+        </attvalues>
+      </node>
+      <node id="24612118" label="24612118">
+        <attvalues>
+          <attvalue for="0" value="Fates and Furies" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="7159" />
+        </attvalues>
+      </node>
+      <node id="59960" label="59960">
+        <attvalues>
+          <attvalue for="0" value="Batman: The Dark Knight Returns (The Dark Knight Saga, #1)" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="7142" />
+        </attvalues>
+      </node>
+      <node id="92517" label="92517">
+        <attvalues>
+          <attvalue for="0" value="The Glass Menagerie" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="7104" />
+        </attvalues>
+      </node>
+      <node id="13547180" label="13547180">
+        <attvalues>
+          <attvalue for="0" value="Brain on Fire: My Month of Madness" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="7019" />
+        </attvalues>
+      </node>
+      <node id="17020" label="17020">
+        <attvalues>
+          <attvalue for="0" value="13 Little Blue Envelopes (Little Blue Envelope, #1)" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="6484" />
+        </attvalues>
+      </node>
+      <node id="227865" label="227865">
+        <attvalues>
+          <attvalue for="0" value="The Eternity Code (Artemis Fowl, #3)" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="6422" />
+        </attvalues>
+      </node>
+      <node id="334643" label="334643">
+        <attvalues>
+          <attvalue for="0" value="Abhorsen (Abhorsen, #3)" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="5856" />
+        </attvalues>
+      </node>
+      <node id="9579634" label="9579634">
+        <attvalues>
+          <attvalue for="0" value="Prince of Thorns (The Broken Empire, #1)" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="5564" />
+        </attvalues>
+      </node>
+      <node id="14384" label="14384">
+        <attvalues>
+          <attvalue for="0" value="A Hunger Like No Other (Immortals After Dark #2)" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="4786" />
+        </attvalues>
+      </node>
+      <node id="439173" label="439173">
+        <attvalues>
+          <attvalue for="0" value="Frindle" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="4137" />
+        </attvalues>
+      </node>
+      <node id="11529868" label="11529868">
+        <attvalues>
+          <attvalue for="0" value="The Orphan Master's Son" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="3706" />
+        </attvalues>
+      </node>
+      <node id="17465515" label="17465515">
+        <attvalues>
+          <attvalue for="0" value="The Story of a New Name (The Neapolitan Novels #2)" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="3690" />
+        </attvalues>
+      </node>
+      <node id="14740588" label="14740588">
+        <attvalues>
+          <attvalue for="0" value="Notorious Nineteen (Stephanie Plum, #19)" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="3034" />
+        </attvalues>
+      </node>
+      <node id="13519397" label="13519397">
+        <attvalues>
+          <attvalue for="0" value="Throne of Glass (Throne of Glass, #1)" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2911" />
+        </attvalues>
+      </node>
+      <node id="188230" label="188230">
+        <attvalues>
+          <attvalue for="0" value="Crocodile on the Sandbank (Amelia Peabody #1)" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2827" />
+        </attvalues>
+      </node>
+      <node id="77391" label="77391">
+        <attvalues>
+          <attvalue for="0" value="Anne of Ingleside (Anne of Green Gables, #6)" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2784" />
+        </attvalues>
+      </node>
+      <node id="5345" label="5345">
+        <attvalues>
+          <attvalue for="0" value="The Innocent Man: Murder and Injustice in a Small Town" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2698" />
+        </attvalues>
+      </node>
+      <node id="112755" label="112755">
+        <attvalues>
+          <attvalue for="0" value="The Dark Highlander (Highlander, #5)" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2672" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="3" target="5345" id="0" weight="1825" />
+      <edge source="3" target="17465515" id="1" weight="1863" />
+      <edge source="3" target="59960" id="2" weight="4980" />
+      <edge source="3" target="77391" id="3" weight="3307" />
+      <edge source="3" target="334643" id="4" weight="6453" />
+      <edge source="3" target="5064" id="5" weight="5771" />
+      <edge source="3" target="24612118" id="6" weight="4565" />
+      <edge source="3" target="14740588" id="7" weight="3008" />
+      <edge source="3" target="188230" id="8" weight="3152" />
+      <edge source="3" target="17020" id="9" weight="6036" />
+      <edge source="3" target="68429" id="10" weight="10708" />
+      <edge source="3" target="13547180" id="11" weight="4194" />
+      <edge source="3" target="92517" id="12" weight="6221" />
+      <edge source="3" target="112755" id="13" weight="2352" />
+      <edge source="3" target="26893819" id="14" weight="7008" />
+      <edge source="3" target="11529868" id="15" weight="2265" />
+      <edge source="3" target="16160797" id="16" weight="19557" />
+      <edge source="3" target="14384" id="17" weight="3896" />
+      <edge source="3" target="9791" id="18" weight="8937" />
+      <edge source="3" target="13519397" id="19" weight="1513" />
+      <edge source="3" target="439173" id="20" weight="4279" />
+      <edge source="3" target="9579634" id="21" weight="4002" />
+      <edge source="3" target="16304" id="22" weight="11375" />
+      <edge source="3" target="227865" id="23" weight="7055" />
+      <edge source="16160797" target="13519397" id="24" weight="168" />
+      <edge source="16160797" target="112755" id="25" weight="197" />
+      <edge source="16160797" target="334643" id="26" weight="701" />
+      <edge source="16160797" target="439173" id="27" weight="492" />
+      <edge source="16160797" target="17020" id="28" weight="1028" />
+      <edge source="16160797" target="227865" id="29" weight="812" />
+      <edge source="16160797" target="14384" id="30" weight="281" />
+      <edge source="16160797" target="5345" id="31" weight="554" />
+      <edge source="16160797" target="17465515" id="32" weight="817" />
+      <edge source="16160797" target="24612118" id="33" weight="2330" />
+      <edge source="16160797" target="9791" id="34" weight="2106" />
+      <edge source="16160797" target="14740588" id="35" weight="986" />
+      <edge source="16160797" target="26893819" id="36" weight="2842" />
+      <edge source="16160797" target="5064" id="37" weight="1486" />
+      <edge source="16160797" target="59960" id="38" weight="542" />
+      <edge source="16160797" target="77391" id="39" weight="534" />
+      <edge source="16160797" target="13547180" id="40" weight="1429" />
+      <edge source="16160797" target="9579634" id="41" weight="453" />
+      <edge source="16160797" target="11529868" id="42" weight="1060" />
+      <edge source="16160797" target="68429" id="43" weight="1273" />
+      <edge source="16160797" target="16304" id="44" weight="2765" />
+      <edge source="16160797" target="188230" id="45" weight="867" />
+      <edge source="16160797" target="92517" id="46" weight="971" />
+      <edge source="16304" target="77391" id="47" weight="680" />
+      <edge source="16304" target="112755" id="48" weight="139" />
+      <edge source="16304" target="24612118" id="49" weight="525" />
+      <edge source="16304" target="188230" id="50" weight="943" />
+      <edge source="16304" target="334643" id="51" weight="447" />
+      <edge source="16304" target="9579634" id="52" weight="301" />
+      <edge source="16304" target="13519397" id="53" weight="104" />
+      <edge source="16304" target="14740588" id="54" weight="368" />
+      <edge source="16304" target="26893819" id="55" weight="706" />
+      <edge source="16304" target="439173" id="56" weight="285" />
+      <edge source="16304" target="227865" id="57" weight="719" />
+      <edge source="16304" target="9791" id="58" weight="1246" />
+      <edge source="16304" target="68429" id="59" weight="761" />
+      <edge source="16304" target="17020" id="60" weight="373" />
+      <edge source="16304" target="5345" id="61" weight="335" />
+      <edge source="16304" target="13547180" id="62" weight="382" />
+      <edge source="16304" target="5064" id="63" weight="834" />
+      <edge source="16304" target="17465515" id="64" weight="280" />
+      <edge source="16304" target="11529868" id="65" weight="304" />
+      <edge source="16304" target="14384" id="66" weight="222" />
+      <edge source="16304" target="92517" id="67" weight="1258" />
+      <edge source="16304" target="59960" id="68" weight="531" />
+      <edge source="68429" target="439173" id="69" weight="187" />
+      <edge source="68429" target="14384" id="70" weight="244" />
+      <edge source="68429" target="59960" id="71" weight="738" />
+      <edge source="68429" target="24612118" id="72" weight="176" />
+      <edge source="68429" target="334643" id="73" weight="1368" />
+      <edge source="68429" target="188230" id="74" weight="289" />
+      <edge source="68429" target="9579634" id="75" weight="2828" />
+      <edge source="68429" target="17465515" id="76" weight="90" />
+      <edge source="68429" target="26893819" id="77" weight="211" />
+      <edge source="68429" target="5064" id="78" weight="633" />
+      <edge source="68429" target="77391" id="79" weight="229" />
+      <edge source="68429" target="112755" id="80" weight="149" />
+      <edge source="68429" target="11529868" id="81" weight="163" />
+      <edge source="68429" target="9791" id="82" weight="603" />
+      <edge source="68429" target="17020" id="83" weight="190" />
+      <edge source="68429" target="13519397" id="84" weight="132" />
+      <edge source="68429" target="227865" id="85" weight="1041" />
+      <edge source="68429" target="5345" id="86" weight="95" />
+      <edge source="68429" target="13547180" id="87" weight="160" />
+      <edge source="68429" target="14740588" id="88" weight="151" />
+      <edge source="68429" target="92517" id="89" weight="292" />
+      <edge source="9791" target="26893819" id="90" weight="981" />
+      <edge source="9791" target="13519397" id="91" weight="19" />
+      <edge source="9791" target="17465515" id="92" weight="376" />
+      <edge source="9791" target="5064" id="93" weight="941" />
+      <edge source="9791" target="17020" id="94" weight="361" />
+      <edge source="9791" target="439173" id="95" weight="336" />
+      <edge source="9791" target="11529868" id="96" weight="683" />
+      <edge source="9791" target="112755" id="97" weight="83" />
+      <edge source="9791" target="59960" id="98" weight="433" />
+      <edge source="9791" target="14740588" id="99" weight="420" />
+      <edge source="9791" target="24612118" id="100" weight="979" />
+      <edge source="9791" target="14384" id="101" weight="109" />
+      <edge source="9791" target="92517" id="102" weight="828" />
+      <edge source="9791" target="13547180" id="103" weight="840" />
+      <edge source="9791" target="9579634" id="104" weight="187" />
+      <edge source="9791" target="77391" id="105" weight="398" />
+      <edge source="9791" target="188230" id="106" weight="643" />
+      <edge source="9791" target="334643" id="107" weight="427" />
+      <edge source="9791" target="5345" id="108" weight="365" />
+      <edge source="9791" target="227865" id="109" weight="350" />
+      <edge source="26893819" target="13547180" id="110" weight="1380" />
+      <edge source="26893819" target="439173" id="111" weight="215" />
+      <edge source="26893819" target="5064" id="112" weight="510" />
+      <edge source="26893819" target="17020" id="113" weight="387" />
+      <edge source="26893819" target="77391" id="114" weight="166" />
+      <edge source="26893819" target="14384" id="115" weight="55" />
+      <edge source="26893819" target="14740588" id="116" weight="267" />
+      <edge source="26893819" target="9579634" id="117" weight="64" />
+      <edge source="26893819" target="13519397" id="118" weight="64" />
+      <edge source="26893819" target="59960" id="119" weight="211" />
+      <edge source="26893819" target="5345" id="120" weight="218" />
+      <edge source="26893819" target="11529868" id="121" weight="775" />
+      <edge source="26893819" target="188230" id="122" weight="165" />
+      <edge source="26893819" target="334643" id="123" weight="178" />
+      <edge source="26893819" target="92517" id="124" weight="613" />
+      <edge source="26893819" target="17465515" id="125" weight="973" />
+      <edge source="26893819" target="24612118" id="126" weight="2850" />
+      <edge source="26893819" target="227865" id="127" weight="133" />
+      <edge source="26893819" target="112755" id="128" weight="36" />
+      <edge source="5064" target="334643" id="129" weight="247" />
+      <edge source="5064" target="92517" id="130" weight="425" />
+      <edge source="5064" target="17465515" id="131" weight="239" />
+      <edge source="5064" target="227865" id="132" weight="247" />
+      <edge source="5064" target="112755" id="133" weight="146" />
+      <edge source="5064" target="188230" id="134" weight="289" />
+      <edge source="5064" target="17020" id="135" weight="135" />
+      <edge source="5064" target="5345" id="136" weight="339" />
+      <edge source="5064" target="14384" id="137" weight="114" />
+      <edge source="5064" target="13519397" id="138" weight="30" />
+      <edge source="5064" target="59960" id="139" weight="159" />
+      <edge source="5064" target="439173" id="140" weight="92" />
+      <edge source="5064" target="11529868" id="141" weight="396" />
+      <edge source="5064" target="9579634" id="142" weight="260" />
+      <edge source="5064" target="14740588" id="143" weight="256" />
+      <edge source="5064" target="24612118" id="144" weight="473" />
+      <edge source="5064" target="13547180" id="145" weight="357" />
+      <edge source="5064" target="77391" id="146" weight="226" />
+      <edge source="24612118" target="13519397" id="147" weight="18" />
+      <edge source="24612118" target="188230" id="148" weight="170" />
+      <edge source="24612118" target="112755" id="149" weight="25" />
+      <edge source="24612118" target="77391" id="150" weight="143" />
+      <edge source="24612118" target="13547180" id="151" weight="1015" />
+      <edge source="24612118" target="9579634" id="152" weight="54" />
+      <edge source="24612118" target="227865" id="153" weight="96" />
+      <edge source="24612118" target="92517" id="154" weight="481" />
+      <edge source="24612118" target="59960" id="155" weight="127" />
+      <edge source="24612118" target="14384" id="156" weight="41" />
+      <edge source="24612118" target="439173" id="157" weight="130" />
+      <edge source="24612118" target="5345" id="158" weight="147" />
+      <edge source="24612118" target="17465515" id="159" weight="1066" />
+      <edge source="24612118" target="11529868" id="160" weight="967" />
+      <edge source="24612118" target="334643" id="161" weight="175" />
+      <edge source="24612118" target="17020" id="162" weight="241" />
+      <edge source="24612118" target="14740588" id="163" weight="206" />
+      <edge source="59960" target="334643" id="164" weight="303" />
+      <edge source="59960" target="92517" id="165" weight="380" />
+      <edge source="59960" target="17465515" id="166" weight="68" />
+      <edge source="59960" target="227865" id="167" weight="294" />
+      <edge source="59960" target="13519397" id="168" weight="32" />
+      <edge source="59960" target="112755" id="169" weight="25" />
+      <edge source="59960" target="13547180" id="170" weight="100" />
+      <edge source="59960" target="188230" id="171" weight="111" />
+      <edge source="59960" target="14740588" id="172" weight="42" />
+      <edge source="59960" target="9579634" id="173" weight="370" />
+      <edge source="59960" target="5345" id="174" weight="72" />
+      <edge source="59960" target="11529868" id="175" weight="125" />
+      <edge source="59960" target="17020" id="176" weight="94" />
+      <edge source="59960" target="77391" id="177" weight="56" />
+      <edge source="59960" target="439173" id="178" weight="96" />
+      <edge source="59960" target="14384" id="179" weight="50" />
+      <edge source="92517" target="9579634" id="180" weight="84" />
+      <edge source="92517" target="14384" id="181" weight="131" />
+      <edge source="92517" target="439173" id="182" weight="318" />
+      <edge source="92517" target="5345" id="183" weight="204" />
+      <edge source="92517" target="13547180" id="184" weight="366" />
+      <edge source="92517" target="77391" id="185" weight="409" />
+      <edge source="92517" target="14740588" id="186" weight="169" />
+      <edge source="92517" target="13519397" id="187" weight="33" />
+      <edge source="92517" target="188230" id="188" weight="272" />
+      <edge source="92517" target="227865" id="189" weight="300" />
+      <edge source="92517" target="11529868" id="190" weight="250" />
+      <edge source="92517" target="334643" id="191" weight="270" />
+      <edge source="92517" target="112755" id="192" weight="93" />
+      <edge source="92517" target="17020" id="193" weight="366" />
+      <edge source="92517" target="17465515" id="194" weight="208" />
+      <edge source="13547180" target="77391" id="195" weight="134" />
+      <edge source="13547180" target="9579634" id="196" weight="37" />
+      <edge source="13547180" target="227865" id="197" weight="84" />
+      <edge source="13547180" target="112755" id="198" weight="31" />
+      <edge source="13547180" target="14384" id="199" weight="40" />
+      <edge source="13547180" target="17465515" id="200" weight="292" />
+      <edge source="13547180" target="188230" id="201" weight="143" />
+      <edge source="13547180" target="17020" id="202" weight="212" />
+      <edge source="13547180" target="14740588" id="203" weight="178" />
+      <edge source="13547180" target="11529868" id="204" weight="434" />
+      <edge source="13547180" target="334643" id="205" weight="123" />
+      <edge source="13547180" target="13519397" id="206" weight="18" />
+      <edge source="13547180" target="439173" id="207" weight="165" />
+      <edge source="13547180" target="5345" id="208" weight="175" />
+      <edge source="17020" target="17465515" id="209" weight="63" />
+      <edge source="17020" target="13519397" id="210" weight="105" />
+      <edge source="17020" target="14384" id="211" weight="185" />
+      <edge source="17020" target="77391" id="212" weight="241" />
+      <edge source="17020" target="112755" id="213" weight="88" />
+      <edge source="17020" target="334643" id="214" weight="375" />
+      <edge source="17020" target="5345" id="215" weight="64" />
+      <edge source="17020" target="188230" id="216" weight="174" />
+      <edge source="17020" target="11529868" id="217" weight="78" />
+      <edge source="17020" target="14740588" id="218" weight="249" />
+      <edge source="17020" target="9579634" id="219" weight="55" />
+      <edge source="17020" target="227865" id="220" weight="396" />
+      <edge source="17020" target="439173" id="221" weight="578" />
+      <edge source="227865" target="13519397" id="222" weight="130" />
+      <edge source="227865" target="188230" id="223" weight="239" />
+      <edge source="227865" target="5345" id="224" weight="76" />
+      <edge source="227865" target="14384" id="225" weight="193" />
+      <edge source="227865" target="11529868" id="226" weight="57" />
+      <edge source="227865" target="77391" id="227" weight="299" />
+      <edge source="227865" target="14740588" id="228" weight="195" />
+      <edge source="227865" target="9579634" id="229" weight="446" />
+      <edge source="227865" target="334643" id="230" weight="933" />
+      <edge source="227865" target="17465515" id="231" weight="42" />
+      <edge source="227865" target="439173" id="232" weight="423" />
+      <edge source="227865" target="112755" id="233" weight="121" />
+      <edge source="334643" target="112755" id="234" weight="139" />
+      <edge source="334643" target="188230" id="235" weight="306" />
+      <edge source="334643" target="9579634" id="236" weight="501" />
+      <edge source="334643" target="5345" id="237" weight="36" />
+      <edge source="334643" target="14384" id="238" weight="223" />
+      <edge source="334643" target="13519397" id="239" weight="79" />
+      <edge source="334643" target="439173" id="240" weight="276" />
+      <edge source="334643" target="11529868" id="241" weight="102" />
+      <edge source="334643" target="14740588" id="242" weight="115" />
+      <edge source="334643" target="17465515" id="243" weight="74" />
+      <edge source="334643" target="77391" id="244" weight="254" />
+      <edge source="9579634" target="14384" id="245" weight="176" />
+      <edge source="9579634" target="11529868" id="246" weight="59" />
+      <edge source="9579634" target="77391" id="247" weight="50" />
+      <edge source="9579634" target="14740588" id="248" weight="57" />
+      <edge source="9579634" target="5345" id="249" weight="36" />
+      <edge source="9579634" target="112755" id="250" weight="76" />
+      <edge source="9579634" target="13519397" id="251" weight="122" />
+      <edge source="9579634" target="439173" id="252" weight="27" />
+      <edge source="9579634" target="188230" id="253" weight="72" />
+      <edge source="9579634" target="17465515" id="254" weight="16" />
+      <edge source="14384" target="188230" id="255" weight="168" />
+      <edge source="14384" target="17465515" id="256" weight="12" />
+      <edge source="14384" target="439173" id="257" weight="44" />
+      <edge source="14384" target="77391" id="258" weight="104" />
+      <edge source="14384" target="13519397" id="259" weight="90" />
+      <edge source="14384" target="112755" id="260" weight="1749" />
+      <edge source="14384" target="14740588" id="261" weight="290" />
+      <edge source="14384" target="11529868" id="262" weight="16" />
+      <edge source="14384" target="5345" id="263" weight="44" />
+      <edge source="439173" target="188230" id="264" weight="114" />
+      <edge source="439173" target="11529868" id="265" weight="93" />
+      <edge source="439173" target="77391" id="266" weight="188" />
+      <edge source="439173" target="14740588" id="267" weight="89" />
+      <edge source="439173" target="5345" id="268" weight="53" />
+      <edge source="439173" target="13519397" id="269" weight="14" />
+      <edge source="439173" target="112755" id="270" weight="20" />
+      <edge source="439173" target="17465515" id="271" weight="50" />
+      <edge source="11529868" target="14740588" id="272" weight="103" />
+      <edge source="11529868" target="112755" id="273" weight="11" />
+      <edge source="11529868" target="5345" id="274" weight="129" />
+      <edge source="11529868" target="77391" id="275" weight="74" />
+      <edge source="11529868" target="188230" id="276" weight="150" />
+      <edge source="11529868" target="13519397" id="277" weight="6" />
+      <edge source="11529868" target="17465515" id="278" weight="458" />
+      <edge source="17465515" target="77391" id="279" weight="81" />
+      <edge source="17465515" target="112755" id="280" weight="7" />
+      <edge source="17465515" target="188230" id="281" weight="84" />
+      <edge source="17465515" target="14740588" id="282" weight="37" />
+      <edge source="17465515" target="13519397" id="283" weight="11" />
+      <edge source="17465515" target="5345" id="284" weight="37" />
+      <edge source="14740588" target="5345" id="285" weight="218" />
+      <edge source="14740588" target="13519397" id="286" weight="19" />
+      <edge source="14740588" target="77391" id="287" weight="163" />
+      <edge source="14740588" target="112755" id="288" weight="247" />
+      <edge source="14740588" target="188230" id="289" weight="345" />
+      <edge source="13519397" target="188230" id="290" weight="17" />
+      <edge source="13519397" target="112755" id="291" weight="31" />
+      <edge source="13519397" target="5345" id="292" weight="8" />
+      <edge source="13519397" target="77391" id="293" weight="28" />
+      <edge source="188230" target="5345" id="294" weight="86" />
+      <edge source="188230" target="112755" id="295" weight="135" />
+      <edge source="188230" target="77391" id="296" weight="267" />
+      <edge source="77391" target="112755" id="297" weight="81" />
+      <edge source="77391" target="5345" id="298" weight="93" />
+      <edge source="5345" target="112755" id="299" weight="36" />
+    </edges>
+  </graph>
+</gexf>
